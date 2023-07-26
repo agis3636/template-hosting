@@ -27,3 +27,6 @@ Made by **Aditya Kadali**
 
 - [Live Demo](https://hosting-homepage.netlify.app/)
 - [Source Code](https://github.com/Adityakadali/Hosting-landingpage)
+# template-hosting
+# template-hosting
+# template-hosting
